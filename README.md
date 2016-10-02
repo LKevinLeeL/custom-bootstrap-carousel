@@ -4,7 +4,7 @@ Custom Bootstrap Carousel
 
 
 ### Description
-Over riding Bootstrap Carousel indicators with SVG icons.
+Overriding Bootstrap Carousel indicators with SVG icons.
 
 ### Carousel Version # 1
 
